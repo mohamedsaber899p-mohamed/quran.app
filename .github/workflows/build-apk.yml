@@ -2,7 +2,7 @@ name: Build Quran APK
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ main, master, native ]
   workflow_dispatch:
 
 jobs:
